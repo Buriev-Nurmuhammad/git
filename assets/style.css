@@ -1,0 +1,49 @@
+input {
+    width: 20%;
+    margin-left: 38%;
+    border: 1px solid #555;
+}
+
+button {
+    position: relative;
+    left: 45%;
+    transform: translate(-50%,0);
+    border: 2px solid rgb(191, 183, 196);
+    border-radius: 10px;
+}
+
+form {
+ 
+    top: 50%;
+
+}
+
+#action_form {
+    margin-top: 17%;
+    
+ 
+
+ 
+}
+
+body {
+    
+    background-image: url ('assets/i.jpg');
+}
+input{
+    border: 3px solid rgb(191, 183, 196);
+    border-radius: 10px;
+}
+#checkbox {
+   max-width: 1079px;
+   
+  
+}
+#active {
+    border: 3px solid rgb(191, 183, 196);
+    border-radius: 10px;
+    background-color: white;
+ 
+   
+}
+a {text-decoration: none;}
